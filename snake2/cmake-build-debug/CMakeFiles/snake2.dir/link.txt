@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g CMakeFiles/snake2.dir/main.cpp.o CMakeFiles/snake2.dir/Snake.cpp.o CMakeFiles/snake2.dir/Map.cpp.o CMakeFiles/snake2.dir/Point.cpp.o -o snake2 
