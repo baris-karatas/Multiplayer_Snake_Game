@@ -4,7 +4,7 @@ I created a multiplayer snake game that allows users to play snake game more tha
 To do tihs project I used multi-thread library to create more smooth game and of course realtime play.
 
 ![snake2](https://user-images.githubusercontent.com/33378290/117163945-ce3d7580-adcc-11eb-8a89-30e3aba8c684.png)
-as in the picture ve have to snake in one map. The players can control snakes both with "w,s,s,d" and "8,4,5,6" keys.
+as in the picture we have two snake in one map. The players can control snakes both with "w,s,s,d" and "8,4,5,6" keys.
 Temporary this control buttons is'nt the best convenience keys but it the game is playable right now.
 
 we have score table upfront to show scores of players when they eat the food they gain 10 points.
